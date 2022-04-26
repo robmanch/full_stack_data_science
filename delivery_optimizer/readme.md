@@ -1,1 +1,1 @@
-link to the app: deliveryoptimization.herokuapp.com
+link to the app: https://deliveryoptimization.herokuapp.com
